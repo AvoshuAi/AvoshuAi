@@ -13,7 +13,8 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/website-avoshu.com-black?logo=googlechrome)](https://avoshu.com) [![Email](https://img.shields.io/badge/email-hey@avoshu.com-blue?logo=gmail)](mailto:hey@avoshu.com) [![GitHub Followers](https://img.shields.io/github/followers/avoshu?logo=github)](https://github.com/avoshu)
+[![Website](https://shieldcn.dev/badge/website-Avoshu.com-black.png?logo=googlechrome)](https://Avoshu.com) [![Email](https://shieldcn.dev/badge/email-hey@Avoshu.com-blue.png?logo=gmail)](mailto:hey@Avoshu.com) [![GitHub Followers](https://shieldcn.dev/github/followers/AvoshuAi.png?logo=github)](https://github.com/AvoshuAi) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/Avoshuai.svg?variant=secondary&size=sm)](https://github.com/jiaweing?tab=repositories) ![Made in Jersey](https://shieldcn.dev/badge/made%20in-Jersey-red.png)
+</div>
 
 </div>
 
