@@ -1,12 +1,11 @@
 <!-- Intro  -->
 <div align="center">
 <pre>
-     ___   ____    ____  ______        _______. __    __   __    __  
-    /   \  \   \  /   / /  __  \      /       ||  |  |  | |  |  |  | 
-   /  ^  \  \   \/   / |  |  |  |    |   (----`|  |__|  | |  |  |  | 
-  /  /_\  \  \      /  |  |  |  |     \   \    |   __   | |  |  |  | 
- /  _____  \  \    /   |  `--'  | .----)   |   |  |  |  | |  `--'  | 
-/__/     \__\  \__/     \______/  |_______/    |__|  |__|  \______/  
+ ______     __   __   ______     ______     __  __     __  __    
+/\  __ \   /\ \ / /  /\  __ \   /\  ___\   /\ \_\ \   /\ \/\ \   
+\ \  __ \  \ \ \'/   \ \ \/\ \  \ \___  \  \ \  __ \  \ \ \_\ \  
+ \ \_\ \_\  \ \__|    \ \_____\  \/\_____\  \ \_\ \_\  \ \_____\ 
+  \/_/\/_/   \/_/      \/_____/   \/_____/   \/_/\/_/   \/_____/                                                          
                                                                      
 </pre>
 </div>
@@ -17,74 +16,6 @@
 </div>
 
 </div>
-
-<details>
-<summary>Source Code</summary>
-
-```python
-from typing import List, Dict, Tuple
-
-
-class avoshu:
-    """
-    creator · builder · unfiltered nerd
-    designing his life, building his own Jarvis, chasing $1M
-    and documenting every step of the climb
-    """
-
-    def __init__(self):
-        self.name      = "Alex Harmon"
-        self.alias     = "Avoshu"
-        self.age       = 21
-        self.location  = "New Jersey, USA"
-        self.website   = "https://avoshu.com"
-        self.stack     = ["TypeScript", "Python", "JavaScript", "Next.js", "React", "Tailwind CSS", "Framer Motion", "Lenis Scroll"]
-
-    @property
-    def bio(self) -> str:
-        return (
-            "a creator, builder, and unfiltered nerd at heart.\n"
-            "designing my life, building my own Jarvis, chasing $1M.\n"
-            "and documenting every step of the climb.\n"
-            "8+ years in design. autistic. ADHD. shipping anyway."
-        )
-
-    @property
-    def achievements(self) -> List[str]:
-        return [
-            "founder of Voshu Studios — NJ-based creative agency",
-            "building Arcus — a local AI assistant for neurodivergent people",
-            "8+ years of GFX design, content creation, and building",
-            "streamer, editor, 3D artist, and full-stack developer",
-            "launched Voshu Labs — home for all future apps and software",
-        ]
-
-    @property
-    def setup(self) -> Dict[str, object]:
-        return {
-            "workstation": {
-                "processor": "Ryzen 5800X",
-                "gpu"      : ["RTX 4060", "RTX 2060"],
-                "os"       : "Windows 11",
-            },
-            "peripherals": [
-                "Volt 1 Microphone",
-            ],
-        }
-
-    @property
-    def contact(self) -> Tuple[str, str, str, str, str]:
-        github    = "github.com/avoshu"
-        instagram = "instagram.com/avoshu"
-        twitch    = "twitch.tv/avoshu"
-        youtube   = "youtube.com/@avoshu"
-        email     = "hey@avoshu.com"
-
-        return github, instagram, twitch, youtube, email
-
-
-alex = avoshu()
-```
 
 </details>
 
