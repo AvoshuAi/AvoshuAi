@@ -1,11 +1,23 @@
-<div align="center"
+# 🌍 HEY IM AVOSHU TWIN
 
-**A 21 year old individual who's making apps, software, websites, designs, and a lot of cool shit.**
+**`CREATOR`** **`DESIGNER`** **`DEVELOPER`** **`OLDER BROTHER`**
 
-[![Website](https://shieldcn.dev/badge/website-Avoshu.com-black.png?logo=googlechrome)](https://Avoshu.com) [![Email](https://shieldcn.dev/badge/email-hey@avoshu.com-blue.png?logo=gmail)](mailto:hey@jiaweing.com) [![GitHub Followers](https://shieldcn.dev/github/followers/Avoshuai.png?logo=github)](https://github.com/Avoshuai) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/Avoshuai.svg?variant=secondary&size=sm)](https://github.com/Avoshuai?tab=repositories) ![Made in Jersey](https://shieldcn.dev/badge/made%20in-Jersey-Purple.png)
-</div>
+I'm a creator, designer, and developer from New Jersey with 8+ years of experience turning ideas into real things. I build AI systems, design brands, write code, and document all of it publicly. Right now I'm building Arcus - my own local AI assistant - and Voshu Studios, a creative agency helping local businesses level up. I'm obsessed with automation, local AI, and the idea that you don't need permission to build something great. Find me on Twitter @avoshu or check out everything I'm working on at avoshu.com.
 
-</div>
+   <p align="left">
+      <a href="https://www.youtube.com/@avoshu?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+      <a href="https://www.youtube.com/@avoshu">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCG7FRazFiOgqGNjvAoWJ-8Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
+      <a href="https://x.com/ForrestPKnight">
+         <img alt="Follow on X" title="Follow me on X" src="https://raw.githubusercontent.com/ForrestKnight/ForrestKnight/master/.github/assets/x-follow-badge.svg"/></a>
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
+---
 
 
 </details>
