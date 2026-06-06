@@ -20,8 +20,6 @@ I'm a creator, designer, and developer from New Jersey with 8+ years of experien
 
 </details>
 
-This is already solid structure-wise. I tightened the descriptions just enough so they hit cleaner, feel more intentional, and don’t drift into repetition or fluff.
-
 ---
 
 # Current Projects
