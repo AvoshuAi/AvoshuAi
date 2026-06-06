@@ -4,8 +4,6 @@
 
 **A 21 year old individual who's making apps, software, websites, designs, and a lot of cool shit.**
 
-[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40AvoshuAi-181717.svg?logo=github&variant=branded&size=lg)](https://github.com/AvoshuAi) [![Twitter / X](https://www.shieldcn.dev/x/follow/avoshu.svg?variant=branded&size=lg)](https://x.com/avoshu) [![YouTube](https://www.shieldcn.dev/badge/YouTube-%40avoshu-FF0000.svg?logo=youtube&variant=branded&size=lg)](https://youtube.com/@avoshu) [![Twitch](https://www.shieldcn.dev/badge/Twitch-Twitch-9146FF.svg?logo=twitch&variant=branded&size=lg)](https://twitch.tv/avoshu) [![Discord](https://www.shieldcn.dev/badge/Discord-Discord-5865F2.svg?logo=discord&variant=branded&size=lg)](https://discord.gg/avoshu) [![Mastodon](https://www.shieldcn.dev/badge/Mastodon-Mastodon-6364FF.svg?logo=mastodon&variant=branded&size=lg)](https://youtube.com/@avoshu) [![Instagram](https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&size=lg)](https://instagram.com/avoshu)
-
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/AvoshuAi.svg?variant=secondary&size=lg)](https://github.com/AvoshuAi?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/AvoshuAi.svg?variant=secondary&size=lg)](https://github.com/AvoshuAi?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-2-2563eb.svg?logo=github&variant=secondary&size=lg)](https://github.com/AvoshuAi?tab=repositories)
 
 </div>
@@ -43,4 +41,4 @@
 
 ## Connect
 
-[![X](https://img.shields.io/badge/X-avoshu-black?logo=x)](https://x.com/avoshu) [![Instagram](https://img.shields.io/badge/Instagram-avoshu-E4405F?logo=instagram)](https://instagram.com/avoshu) [![Twitch](https://img.shields.io/badge/Twitch-avoshu-9146FF?logo=twitch)](https://twitch.tv/avoshu) [![YouTube](https://img.shields.io/badge/YouTube-avoshu-FF0000?logo=youtube)](https://youtube.com/@avoshu) [![Discord](https://img.shields.io/badge/Discord-avoshu-5865F2?logo=discord)](https://discord.gg/avoshu)
+[![GitHub](https://img.shields.io/badge/GitHub-AvoshuAi-181717?logo=github)](https://github.com/AvoshuAi) [![X](https://img.shields.io/badge/X-avoshu-black?logo=x)](https://x.com/avoshu) [![YouTube](https://img.shields.io/badge/YouTube-avoshu-FF0000?logo=youtube)](https://youtube.com/@avoshu) [![Twitch](https://img.shields.io/badge/Twitch-avoshu-9146FF?logo=twitch)](https://twitch.tv/avoshu) [![Discord](https://img.shields.io/badge/Discord-avoshu-5865F2?logo=discord)](https://discord.gg/avoshu) [![Mastodon](https://img.shields.io/badge/Mastodon-avoshu-6364FF?logo=mastodon)](https://youtube.com/@avoshu) [![Instagram](https://img.shields.io/badge/Instagram-avoshu-E4405F?logo=instagram)](https://instagram.com/avoshu)
