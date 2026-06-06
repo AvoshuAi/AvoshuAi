@@ -1,16 +1,4 @@
-<!-- Intro  -->
-<div align="center">
-<pre>
- ______     __   __   ______     ______     __  __     __  __    
-/\  __ \   /\ \ / /  /\  __ \   /\  ___\   /\ \_\ \   /\ \/\ \   
-\ \  __ \  \ \ \'/   \ \ \/\ \  \ \___  \  \ \  __ \  \ \ \_\ \  
- \ \_\ \_\  \ \__|    \ \_____\  \/\_____\  \ \_\ \_\  \ \_____\ 
-  \/_/\/_/   \/_/      \/_____/   \/_____/   \/_/\/_/   \/_____/                                                          
-                                                                     
-</pre>
-</div>
-
-<div align="center">
+### 👋 Hey, I'm AvoshU
 
 [![Website](https://shieldcn.dev/badge/website-Avoshu.com-black.png?logo=googlechrome)](https://Avoshu.com) [![Email](https://shieldcn.dev/badge/email-hey@Avoshu.com-blue.png?logo=gmail)](mailto:hey@Avoshu.com) [![GitHub Followers](https://shieldcn.dev/github/followers/AvoshuAi.png?logo=github)](https://github.com/AvoshuAi) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/Avoshuai.svg?variant=secondary&size=sm)](https://github.com/jiaweing?tab=repositories) ![Made in Jersey](https://shieldcn.dev/badge/made%20in-Jersey-red.png)
 </div>
