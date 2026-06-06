@@ -20,41 +20,41 @@ I'm a creator, designer, and developer from New Jersey with 8+ years of experien
 
 </details>
 
-# 🚀 Current Projects
+This is already solid structure-wise. I tightened the descriptions just enough so they hit cleaner, feel more intentional, and don’t drift into repetition or fluff.
 
-## 🔭 Upcoming
+---
 
-- 🎬 **[StudioStage](https://github.com/AvoshuAi/studiostage)** - The all-in-one creative suite built for creators who wear every hat. Design thumbnails, build brand kits, edit graphics, and produce visual content without jumping between 10 different tools. One place. Everything you need.
+# Current Projects
 
-- 🎙️ **[??? - Name TBD](https://github.com/AvoshuAi)** - Streaming software made by a creator, for creators. Built on top of OBS with a completely rebuilt UI and experience. No more fighting your tools - just stream.
+# Upcoming
+
+* 🎬 **[StudioStage](https://github.com/AvoshuAi/studiostage)** - The all-in-one creative suite built for creators who handle every part of production. Design thumbnails, build brand kits, edit graphics, and produce visual content without jumping between tools. One place for everything. Built for speed, consistency, and replacing the fragmented workflows most creators deal with daily.
+
+* 🎙️ **[??? - Name TBD](https://github.com/AvoshuAi)** - Streaming software made by a creator, for creators. Built on top of OBS with a rebuilt UI and experience that removes clutter and friction. Focused on faster setup, cleaner scene control, and turning streaming into a structured system instead of a messy dashboard.
+
+## AI & Neurodivergent Tools
+
+* 🧠 **[Arcus](https://github.com/AvoshuAi/arcus)** - A self-hosted, fully local AI voice assistant built for neurodivergent users and ADHD workflows. Unlike typical AI assistants, Arcus adapts to hardware automatically, scaling from low-end laptops to high-performance machines. Runs in its own container with a local database, keeping all data on-device. No subscriptions, no cloud dependency. Designed for reminders, voice input, task execution, and daily structure without overload.
+
+* 📊 **[LifeOS](https://github.com/AvoshuAi/lifeos)** - A personal command center for overthinkers. It centralizes finances, habits, goals, and life tracking into one clear dashboard so you always know where things stand. Runs locally in its own container with a dedicated database. No external data exposure. Built to eventually integrate directly with Arcus as the grounding layer for daily life and decision-making.
+
+## Web & Platforms
+
+* 🌐 **[avoshu.com](https://avoshu.com)** - The central hub for everything Avoshu. Portfolio, projects, identity, and future system links all live here. Acts as the entry point for the ecosystem and ongoing work.
+
+* 🏢 **[voshustudios.com](https://voshustudios.com)** - NJ-based creative agency helping local businesses modernize their digital presence. Focused on web design, branding, AI systems, and automation that actually runs clean in production, not just looks good on paper.
+
+* 🧪 **[voshulabs.com](https://voshulabs.com)** - The experimental layer. Every tool, app, and system ships through Voshu Labs. It’s where prototypes live first before becoming full products or standalone platforms.
+
+## AI & Dev Tools
+
+* 🤖 **[arcus.ai](https://arcus.ai)** - The public-facing layer of Arcus. A neurodivergent-first AI system built on open foundations with heavy custom layers on top. Focused on making local AI feel responsive, usable, and personal instead of generic chatbot behavior.
+
+* ⚒️ **[voshu.dev](https://voshu.dev)** - The next step in visual web building. Built to remove lock-in patterns from no-code tools and give real control over structure, output, and deployment.
+
+* 📈 **[lifeos.ai](https://lifeos.ai)** - The landing page for LifeOS. A fast, clear view into habits, progress, and life structure. Designed for immediate clarity instead of buried dashboards.
 
 
-## 🧠 AI & Neurodivergent Tools
-
-- 🧠 **[Arcus](https://github.com/AvoshuAi/arcus)** - A self-hosted, fully local AI voice assistant built specifically for neurodivergent people and ADHDers. Yeah, there are other Jarvis clones out there - but Arcus is different. She automatically detects your hardware and adjusts herself to run on anything, from a beast workstation to a budget laptop. Runs in her own container, with her own database, directly on your machine. Your data never leaves your house. No subscriptions, no cloud, no renting AI from a corporation ever again. Just a system that listens, understands, and actually gets things done. Own your AI. Run it your way.
-
-
-- 📊 **[LifeOS](https://github.com/AvoshuAi/lifeos)** - A personal command center built for overthinkers. See your finances, habits, goals, and life stats all in one clean dashboard so you always know exactly where you stand. No more anxiety spirals wondering if things are okay - they're right there on the screen. Runs in its own container with its own database set up directly on your computer. Your financial data, your habits, your life - none of it touches a server you don't own. Fully local, fully yours. Built to eventually connect directly into Arcus.
-
-
-
-## 🌐 Web & Platforms
-
-- 🌐 **[avoshu.com](https://avoshu.com)** - The main hub. Portfolio, projects, identity - everything that is Avoshu lives here. If you want to know what I'm building, this is where you start.
-
-- 🏢 **[voshustudios.com](https://voshustudios.com)** - NJ-based creative agency helping local businesses look and operate like they're built for the future. Web design, branding, AI systems, and automation - all under one roof.
-
-- 🧪 **[voshulabs.com](https://voshulabs.com)** - The lab. Every app, tool, and piece of software I build ships under Voshu Labs. This is where ideas become products.
-
-
-
-## 🤖 AI & Dev Tools
-
-- 🤖 **[arcus.ai](https://arcus.ai)** - The public face of Arcus. A neurodivergent-first AI system built to go head to head with the big players - open source foundations with heavy custom code on top.
-
-- ⚒️ **[voshu.dev](https://voshu.dev)** - The next evolution of visual web building. Everything Lovable promised, built the right way.
-
-- 📈 **[lifeos.ai](https://lifeos.ai)** - The landing page for LifeOS. Your life, visualized.
 
 
 ## Skills & Technologies
