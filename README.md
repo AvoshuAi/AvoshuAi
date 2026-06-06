@@ -32,7 +32,8 @@ I'm a creator, designer, and developer from New Jersey with 8+ years of experien
 
 ## AI & Neurodivergent Tools
 
-* 🧠 **[Arcus](https://github.com/AvoshuAi/arcus)** - A self-hosted, fully local AI voice assistant built for neurodivergent users and ADHD workflows. Unlike typical AI assistants, Arcus adapts to hardware automatically, scaling from low-end laptops to high-performance machines. Runs in its own container with a local database, keeping all data on-device. No subscriptions, no cloud dependency. Designed for reminders, voice input, task execution, and daily structure without overload.
+
+* 🧠 **[Arcus](https://github.com/AvoshuAi/arcuss)** - A self-hosted, fully local AI voice assistant built for neurodivergent users and ADHD workflows. Unlike typical AI assistants, Arcus adapts to hardware automatically, scaling from low-end laptops to high-performance machines. Runs in its own container with a local database, keeping all data on-device. No subscriptions, no cloud dependency. Designed for reminders, voice input, task execution, and daily structure without overload.
 
 * 📊 **[LifeOS](https://github.com/AvoshuAi/lifeos)** - A personal command center for overthinkers. It centralizes finances, habits, goals, and life tracking into one clear dashboard so you always know where things stand. Runs locally in its own container with a dedicated database. No external data exposure. Built to eventually integrate directly with Arcus as the grounding layer for daily life and decision-making.
 
