@@ -1,14 +1,9 @@
-<div align="center">
-
- ______     __   __   ______     ______     __  __     __  __    
-/\  __ \   /\ \ / /  /\  __ \   /\  ___\   /\ \_\ \   /\ \/\ \   
-\ \  __ \  \ \ \'/   \ \ \/\ \  \ \___  \  \ \  __ \  \ \ \_\ \  
- \ \_\ \_\  \ \__|    \ \_____\  \/\_____\  \ \_\ \_\  \ \_____\ 
-  \/_/\/_/   \/_/      \/_____/   \/_____/   \/_/\/_/   \/_____/ 
+<div align="center"
 
 **A 21 year old individual who's making apps, software, websites, designs, and a lot of cool shit.**
 
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/AvoshuAi.svg?variant=secondary&size=lg)](https://github.com/AvoshuAi?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/AvoshuAi.svg?variant=secondary&size=lg)](https://github.com/AvoshuAi?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-2-2563eb.svg?logo=github&variant=secondary&size=lg)](https://github.com/AvoshuAi?tab=repositories)
+[![Website](https://shieldcn.dev/badge/website-Avoshu.com-black.png?logo=googlechrome)](https://Avoshu.com) [![Email](https://shieldcn.dev/badge/email-hey@avoshu.com-blue.png?logo=gmail)](mailto:hey@jiaweing.com) [![GitHub Followers](https://shieldcn.dev/github/followers/Avoshuai.png?logo=github)](https://github.com/Avoshuai) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/Avoshuai.svg?variant=secondary&size=sm)](https://github.com/Avoshuai?tab=repositories) ![Made in Jersey](https://shieldcn.dev/badge/made%20in-Jersey-Purple.png)
+</div>
 
 </div>
 
