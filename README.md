@@ -1,9 +1,15 @@
-### 👋 Hey, I'm AvoshU
+<div align="center">
 
-[![Website](https://shieldcn.dev/badge/website-Avoshu.com-black.png?logo=googlechrome)](https://Avoshu.com) [![Email](https://shieldcn.dev/badge/email-hey@Avoshu.com-blue.png?logo=gmail)](mailto:hey@Avoshu.com) [![GitHub Followers](https://shieldcn.dev/github/followers/AvoshuAi.png?logo=github)](https://github.com/AvoshuAi) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/Avoshuai.svg?variant=secondary&size=sm)](https://github.com/jiaweing?tab=repositories) ![Made in Jersey](https://shieldcn.dev/badge/made%20in-Jersey-red.png)
+# Hi, I'm Avoshu 👋
+
+**A 21 year old individual who's making apps, software, websites, designs, and a lot of cool shit.**
+
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40AvoshuAi-181717.svg?logo=github&variant=branded&size=lg)](https://github.com/AvoshuAi) [![Twitter / X](https://www.shieldcn.dev/x/follow/avoshu.svg?variant=branded&size=lg)](https://x.com/avoshu) [![YouTube](https://www.shieldcn.dev/badge/YouTube-%40avoshu-FF0000.svg?logo=youtube&variant=branded&size=lg)](https://youtube.com/@avoshu) [![Twitch](https://www.shieldcn.dev/badge/Twitch-Twitch-9146FF.svg?logo=twitch&variant=branded&size=lg)](https://twitch.tv/avoshu) [![Discord](https://www.shieldcn.dev/badge/Discord-Discord-5865F2.svg?logo=discord&variant=branded&size=lg)](https://discord.gg/avoshu) [![Mastodon](https://www.shieldcn.dev/badge/Mastodon-Mastodon-6364FF.svg?logo=mastodon&variant=branded&size=lg)](https://youtube.com/@avoshu) [![Instagram](https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&size=lg)](https://instagram.com/avoshu)
+
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/AvoshuAi.svg?variant=secondary&size=lg)](https://github.com/AvoshuAi?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/AvoshuAi.svg?variant=secondary&size=lg)](https://github.com/AvoshuAi?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-2-2563eb.svg?logo=github&variant=secondary&size=lg)](https://github.com/AvoshuAi?tab=repositories)
+
 </div>
 
-</div>
 
 </details>
 
