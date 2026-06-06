@@ -20,39 +20,44 @@ I'm a creator, designer, and developer from New Jersey with 8+ years of experien
 
 </details>
 
-## 🚀 Current Projects
+# 🚀 Current Projects
 
-### 🧠 AI & Neurodivergent Tools
+## 🔭 Upcoming
 
-| Project | Description |
-|---|---|
-| 🧠 **[Arcus](https://github.com/AvoshuAi/arcus)** | Self-hosted local AI voice assistant built for neurodivergent people and ADHDers. Not another chatbot - your own Jarvis, running locally, doing the work. |
-| 📊 **[LifeOS](https://github.com/AvoshuAi/lifeos)** | All-in-one personal dashboard for overthinkers. Track finances, habits, and life stats at a glance. Built to plug into Arcus. |
-| 🎬 **[StudioStage](https://github.com/AvoshuAi/studiostage)** | Creative suite for creators who do everything. Thumbnails, graphics, branding assets, visual content - all in one place. |
+- 🎬 **[StudioStage](https://github.com/AvoshuAi/studiostage)** - The all-in-one creative suite built for creators who wear every hat. Design thumbnails, build brand kits, edit graphics, and produce visual content without jumping between 10 different tools. One place. Everything you need.
 
-#
+- 🎙️ **[??? - Name TBD](https://github.com/AvoshuAi)** - Streaming software made by a creator, for creators. Built on top of OBS with a completely rebuilt UI and experience. No more fighting your tools - just stream.
 
-### 🌐 Web & Platforms
 
-| Project | Description |
-|---|---|
-| 🌐 **[avoshu.com](https://avoshu.com)** | Personal portfolio and public landing page. The main place to find me on the internet. |
-| 🏢 **[voshustudios.com](https://voshustudios.com)** | NJ-based creative agency. Web design, branding, AI systems, and automation for local businesses. |
-| 🧪 **[voshulabs.com](https://voshulabs.com)** | Home for all my apps, software, and tools. Everything I build lives here. |
+## 🧠 AI & Neurodivergent Tools
 
-#
+- 🧠 **[Arcus](https://github.com/AvoshuAi/arcus)** - A self-hosted, fully local AI voice assistant built specifically for neurodivergent people and ADHDers. Yeah, there are other Jarvis clones out there - but Arcus is different. She automatically detects your hardware and adjusts herself to run on anything, from a beast workstation to a budget laptop. Runs in her own container, with her own database, directly on your machine. Your data never leaves your house. No subscriptions, no cloud, no renting AI from a corporation ever again. Just a system that listens, understands, and actually gets things done. Own your AI. Run it your way.
 
-### 🤖 AI & Dev Tools
 
-| Project | Description |
-|---|---|
-| 🤖 **[arcus.ai](https://arcus.ai)** | Neurodivergent-first AI system built to compete with the big players. Open source foundations, heavy custom code. |
-| ⚒️ **[voshu.dev](https://voshu.dev)** | The next evolution of visual web building. Think Lovable, but built different. |
-| 📈 **[lifeos.ai](https://lifeos.ai)** | The landing page for LifeOS. Your life, visualized. |
+- 📊 **[LifeOS](https://github.com/AvoshuAi/lifeos)** - A personal command center built for overthinkers. See your finances, habits, goals, and life stats all in one clean dashboard so you always know exactly where you stand. No more anxiety spirals wondering if things are okay - they're right there on the screen. Runs in its own container with its own database set up directly on your computer. Your financial data, your habits, your life - none of it touches a server you don't own. Fully local, fully yours. Built to eventually connect directly into Arcus.
+
+
+
+## 🌐 Web & Platforms
+
+- 🌐 **[avoshu.com](https://avoshu.com)** - The main hub. Portfolio, projects, identity - everything that is Avoshu lives here. If you want to know what I'm building, this is where you start.
+
+- 🏢 **[voshustudios.com](https://voshustudios.com)** - NJ-based creative agency helping local businesses look and operate like they're built for the future. Web design, branding, AI systems, and automation - all under one roof.
+
+- 🧪 **[voshulabs.com](https://voshulabs.com)** - The lab. Every app, tool, and piece of software I build ships under Voshu Labs. This is where ideas become products.
+
+
+
+## 🤖 AI & Dev Tools
+
+- 🤖 **[arcus.ai](https://arcus.ai)** - The public face of Arcus. A neurodivergent-first AI system built to go head to head with the big players - open source foundations with heavy custom code on top.
+
+- ⚒️ **[voshu.dev](https://voshu.dev)** - The next evolution of visual web building. Everything Lovable promised, built the right way.
+
+- 📈 **[lifeos.ai](https://lifeos.ai)** - The landing page for LifeOS. Your life, visualized.
+
+
 ## Skills & Technologies
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white) ![Lenis Scroll](https://img.shields.io/badge/-Lenis_Scroll-111111?logoColor=white)
+![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm) ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm) ![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=sm) ![Radix UI](https://www.shieldcn.dev/badge/-Radix_UI-000000.svg?logo=radixui&variant=branded&size=sm) ![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&size=sm) ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded&size=sm) ![TanStack Query](https://www.shieldcn.dev/badge/-TanStack_Query-FF4154.svg?logo=reactquery&variant=branded&size=sm) ![Zod](https://www.shieldcn.dev/badge/-Zod-3E67B1.svg?logo=zod&variant=branded&size=sm) ![Biome](https://www.shieldcn.dev/badge/-Biome-60A5FA.svg?logo=biome&variant=branded&size=sm) ![Husky](https://www.shieldcn.dev/badge/-Husky-3B82F6.svg?logo=husky&variant=branded&size=sm)
 
-## Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-AvoshuAi-181717?logo=github)](https://github.com/AvoshuAi) [![X](https://img.shields.io/badge/X-avoshu-black?logo=x)](https://x.com/avoshu) [![YouTube](https://img.shields.io/badge/YouTube-avoshu-FF0000?logo=youtube)](https://youtube.com/@avoshu) [![Twitch](https://img.shields.io/badge/Twitch-avoshu-9146FF?logo=twitch)](https://twitch.tv/avoshu) [![Discord](https://img.shields.io/badge/Discord-avoshu-5865F2?logo=discord)](https://discord.gg/avoshu) [![Mastodon](https://img.shields.io/badge/Mastodon-avoshu-6364FF?logo=mastodon)](https://youtube.com/@avoshu) [![Instagram](https://img.shields.io/badge/Instagram-avoshu-E4405F?logo=instagram)](https://instagram.com/avoshu)
